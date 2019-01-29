@@ -6,28 +6,28 @@ This repository contains all the deep learning use cases mentioned in the book "
 
 ## Major topics covered 
 
-+ Chapter1: What is deep learning? 
++ What is deep learning? 
     - 
 
-+ Chapter2: The mathematical buildig block og neural networks
++ The mathematical buildig block og neural networks
     - 
 
-+ Chapter3: Getting started with neural networks
++ Getting started with neural networks
     - 
 
-+ Chapter4: Fundamentals of machine learning
++ Fundamentals of machine learning
     -
 
-+ Chapter5: Deep learning for computer vision
++ Deep learning for computer vision
     -
 
-+ Chapter6: Deep learning for text and sequences
++ Deep learning for text and sequences
     -
 
-+ Chapter7: Advanced deep learning practices
++ Advanced deep learning practices
     -
 
-+ Chapter8: Generative deep learning 
++ Generative deep learning 
     -
 
 

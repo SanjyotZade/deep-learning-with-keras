@@ -23,11 +23,11 @@
 
 
 # ignore data folder
-datasets/*
-*/datasets
+test_data/*
+*/test_data
 
-major_data_set/*
-*/major_data_set
+train_data/*
+*/train_data
 
 trash_code/*
 */trash_code
