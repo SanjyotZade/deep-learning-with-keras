@@ -4,7 +4,6 @@ This repository contains all the deep learning use cases mentioned in the book "
 ==================================================================
 
 ## Major topics covered
-- - - -
 
 + Chapter1: What is deep learning? 
     - 
@@ -30,6 +29,5 @@ This repository contains all the deep learning use cases mentioned in the book "
 + Chapter8: Generative deep learning 
     -
 
-- - - -
 
 *Author: All the code is taken from the book deep learning by python*
