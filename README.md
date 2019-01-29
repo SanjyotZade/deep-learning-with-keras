@@ -3,7 +3,7 @@ This repository contains all the deep learning use cases mentioned in the book "
 
 ==================================================================
 
-## Major topics covered
+## Major topics covered 
 
 + Chapter1: What is deep learning? 
     - 
