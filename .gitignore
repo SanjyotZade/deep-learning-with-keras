@@ -19,8 +19,8 @@
 *.json
 *.png
 *.jpg
-*jpeg
-
+*.jpeg
+*.tar.gz
 
 # ignore data folder
 test_data/*
@@ -32,6 +32,8 @@ train_data/*
 trash_code/*
 */trash_code
 
+aclImdb/*
+*/aclImdb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
