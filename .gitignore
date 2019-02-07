@@ -21,6 +21,7 @@
 *.jpg
 *.jpeg
 *.tar.gz
+*.pdf
 
 # ignore data folder
 test_data/*
