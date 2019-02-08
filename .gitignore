@@ -20,9 +20,14 @@
 *.png
 *.jpg
 *jpeg
+*.pdf
 
 
 # ignore data folder
+
+aclImdb/*
+*/aclImdb
+
 test_data/*
 */test_data
 
