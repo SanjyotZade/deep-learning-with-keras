@@ -22,7 +22,7 @@
 *.jpeg
 *.tar.gz
 *.pdf
-
+*.hdf5
 # ignore data folder
 test_data/*
 */test_data
