@@ -23,6 +23,7 @@
 *.tar.gz
 *.pdf
 *.hdf5
+
 # ignore data folder
 test_data/*
 */test_data
@@ -35,6 +36,9 @@ trash_code/*
 
 aclImdb/*
 */aclImdb
+
+my_log_dir/*
+*/my_log_dir
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
