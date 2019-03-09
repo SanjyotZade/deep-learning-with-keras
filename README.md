@@ -9,7 +9,7 @@ This repository contains all the deep learning use cases mentioned in the book "
 + What is deep learning? 
     - 
 
-+ The mathematical buildig block og neural networks
++ The mathematical building block of neural networks
     - 
 
 + Getting started with neural networks
