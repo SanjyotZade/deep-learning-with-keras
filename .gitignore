@@ -17,7 +17,7 @@
 *.csv
 *.h5
 *.json
-*.png
+#*.png
 *.jpg
 *.jpeg
 *.tar.gz
@@ -25,6 +25,9 @@
 *.hdf5
 
 # ignore data folder
+gan_results/**
+**/gan_results
+
 test_data/*
 */test_data
 
