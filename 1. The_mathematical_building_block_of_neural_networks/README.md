@@ -1,6 +1,6 @@
 # The mathematical building block of neural networks
+-----
 
-- 
 
 ### Important topics covered
 - what are 1D, 2D, 3D and higher dimentinality tensors
