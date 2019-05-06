@@ -17,7 +17,7 @@
 *.csv
 *.h5
 *.json
-#*.png
+*.png
 *.jpg
 *.jpeg
 *.tar.gz
