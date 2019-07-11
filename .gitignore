@@ -25,6 +25,10 @@
 *.hdf5
 
 # ignore data folder
+
+glove.6B/**
+**/glove.6B
+
 gan_results/**
 **/gan_results
 
@@ -36,6 +40,9 @@ train_data/*
 
 trash_code/*
 */trash_code
+
+aclImdb_v1/**
+**/aclImdb_v1
 
 aclImdb/*
 */aclImdb
