@@ -2,8 +2,6 @@
 This repository contains all the deep learning use cases mentioned in the book "Deep learning with python by francois chollet". All the study is addressed using keras. This book covers applications of deep learning using keras on different unstructured data like text, images, etc. All the codes are present at chapter level.
 
 
-==================================================================
-
 ## Major topics covered 
 
 + What is deep learning? 
