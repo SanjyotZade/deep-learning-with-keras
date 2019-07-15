@@ -1,4 +1,4 @@
-# Deep_learning_with_keras #
+# DEEP LEARNING WITH KERAS
 
 This repository contains versatile deep learning application implemented in keras. This could be termed as 
 sheet code documentation for practical deep learning applications. As mentioned below, topics range from basic 
