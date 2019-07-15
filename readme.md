@@ -1,21 +1,21 @@
-# Deep_learning_with_keras 
+# Deep_learning_with_keras #
 
 This repository contains versatile deep learning application implemented in keras. This could be termed as 
-sheet code documentation for deep learning practical applications. As mentioned below, topics range from basic 
+sheet code documentation for practical deep learning applications. As mentioned below, topics range from basic 
 neural networks building blocks to complex generative models, well structured for easy understanding. 
 
 ![deep_learning_with_keras overview](utility/pics/intro-pic.png)
 
-## Verticals covered:
+### Verticals covered:
 + **What is deep learning?**
-+ **Building block of neural networks**
++ **Building blocks of neural network**
 + **Getting started with neural networks**
 + **Deep learning for computer vision**
 + **Deep learning for text and sequences**
 + **Advanced deep learning practices**
 + **Generative deep learning**
 
-***What is available?***
+### What is available?
 ```
 ├── MNIST dataset(image) understanding, visualizing and model training
 ├── IMDB data(text) understanding, data encoding, visualizing and model training
