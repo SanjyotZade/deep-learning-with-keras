@@ -1,5 +1,4 @@
 # Advanced deep learning practices
------
 
 ### Important topics covered
 

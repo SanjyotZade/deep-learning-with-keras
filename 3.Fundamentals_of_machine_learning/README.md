@@ -1,5 +1,4 @@
 # Fundamentals of machine learning
------
 
 ### Important topics covered
 

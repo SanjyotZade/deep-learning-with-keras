@@ -1,5 +1,4 @@
 # Getting started with neural networks
------
 
 ### Important topics covered
 

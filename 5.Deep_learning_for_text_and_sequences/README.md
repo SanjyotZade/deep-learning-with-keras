@@ -1,5 +1,4 @@
 # Deep learning for text and sequences
------
 
 ### Important topics covered
 

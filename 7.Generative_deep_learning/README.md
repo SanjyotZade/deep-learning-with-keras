@@ -1,5 +1,4 @@
 # Generative deep learning
------
 
 ### Important topics covered
 

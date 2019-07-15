@@ -1,5 +1,4 @@
 # Deep learning for computer vision
------
 
 ### Important topics covered
 
