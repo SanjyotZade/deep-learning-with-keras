@@ -37,11 +37,11 @@ Note:
 - All the codes are written in ipython notebook as per each topic.
 - Each folder in the repo has a readme describing topics covered(in notebooks) for easy access.
 - If required, link to dataset to be trained is provided in explanations.
-- Sometime ipython notebook fail to render on browser due to github maintenance. 
-In that case either download the notebook or wait for github to resume rendering.
+- In case ipython notebook fail to render on the browser(due to github maintenance), either download the 
+notebook or wait for github to resume rendering.
  
 
-*Author: All the code is taken from the book deep learning by python. Similar github repo of the book is available.
+*Author: All the code is taken from the book "deep learning by python". Similar github repo of the book is available.
 However, I have tried to simplify explanation of every details as per everyone's understanding.*
 
 [![Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Sanjyot22/deep_learning_with_keras)
