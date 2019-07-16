@@ -1,10 +1,13 @@
+import os
+import matplotlib.pyplot as plt
+
 class utils:
     """
     This class consists for all the functions recursively required during model development.
     """
-
+    
     # function to plot model training logs 
-    def plot_training_history(history_dict, plot_val=True, accuracy=True, chart_type="--o"):
+    def plot_training_history(self, history_dict, plot_val=True, accuracy=True, chart_type="--o"):
         """
         This used to plot training and validation stats post model training
         
@@ -62,3 +65,9 @@ class utils:
         ax3.imshow(cv2.imread(path_to_image), interpolation='none')
         plt.axis('off')
         plt.show()
+    
+    def count_files_in_directory(self, folder_path):
+        total = 0
+        for root, dirs, files in os.walk(folder_path):
+            total += len(files)
+        return total
