@@ -1,4 +1,5 @@
 import os
+import cv2
 import matplotlib.pyplot as plt
 
 class utils:
