@@ -27,18 +27,28 @@ class utils:
             if accuracy:
                 val_acc = history_dict['val_acc']
             val_loss = history_dict['val_loss']
-        epochs = range(1, len(acc) + 1)
+        epochs = range(1, len(loss) + 1)
     
         # visualize model training
-        epochs = range(1, len(acc) + 1)
-        fig, axs = plt.subplots(1, 2,figsize=(15,5))
-        axs[0].plot(epochs, loss, chart_type, label='Training loss')
-        if plot_val:
-            axs[0].plot(epochs, val_loss, chart_type, label='Validation loss')
-            axs[0].set_title('training & validation loss')
+        if accuracy:
+            fig, axs = plt.subplots(1, 2,figsize=(15,5))
+            axs[0].plot(epochs, loss, chart_type, label='Training loss')
+            if plot_val:
+                axs[0].plot(epochs, val_loss, chart_type, label='Validation loss')
+                axs[0].set_title('training & validation loss')
+            else:
+                axs[0].set_title('training loss')
+            axs[0].legend()
         else:
-            axs[0].set_title('training loss')
-        axs[0].legend()
+            fig, axs = plt.subplots(1, 1,figsize=(15,5))
+            axs.plot(epochs, loss, chart_type, label='Training loss')
+            if plot_val:
+                axs.plot(epochs, val_loss, chart_type, label='Validation loss')
+                axs.set_title('training & validation loss')
+            else:
+                axs.set_title('training loss')
+            axs.legend()
+        
         
         if accuracy:
             axs[1].plot(epochs, acc, chart_type, label='Training acc')
