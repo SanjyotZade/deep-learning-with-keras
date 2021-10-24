@@ -20,7 +20,7 @@ class utils:
         """
         
         if accuracy:
-            acc = history_dict['acc']
+            acc = history_dict['accuracy']
         loss = history_dict['loss']
       
         if plot_val:
