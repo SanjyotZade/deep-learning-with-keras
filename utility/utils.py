@@ -25,7 +25,7 @@ class utils:
       
         if plot_val:
             if accuracy:
-                val_acc = history_dict['val_acc']
+                val_acc = history_dict['val_accuracy']
             val_loss = history_dict['val_loss']
         epochs = range(1, len(loss) + 1)
     
