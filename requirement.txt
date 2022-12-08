@@ -7,7 +7,7 @@ backcall==0.1.0
 bleach==3.3.0
 cached-property==1.5.2
 cachetools==4.2.4
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.15.0
 charset-normalizer==2.0.7
 clang==5.0
